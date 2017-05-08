@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<title>
+			About Page
+		</title>
+			<meta name = "author" content = "Keegan Schmit and Jackson Bullard">
+			<meta name = "keywords" content = "About"> 
+			<meta name = "keywords" content = "Page"> 
+			<meta name = "keywords" content = "Murdering Flounderesses"> 
+		<link href="style.css" type=text/css rel="style sheet">
+		<script src = "presentation.js"></script>
+	</head>
+<br>
+	<body>
+	<p>In 2013, while partners Jackson Bullard and Keegan Schmit were attending Harvard University, they learned of an issue that has implanted itself in their hearts, and now the world.</p>
+		<center>
+			</center>
+            <br>
+            <br>
+            <br>
+			<button onclick = "aboutPage()">About</button>
+			<button onclick = "creatorsPage()">Creators</button>
+			<button onclick = "locationsGuide()">Our Locations</button>
+			<button onclick = "imageGallery()">Image Gallery</button>
+	</body>
+</html>
