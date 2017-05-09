@@ -1,4 +1,3 @@
-<marquee><h2>The Murderous Flounderesses: Inverted Colon Research Branch</h2></marquee>
 <a href="http://murderousflounderesses.org/"><h2>The Murderous Flounderesses: Inverted Colon Research Branch</h2></a>
 
 
