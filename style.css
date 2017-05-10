@@ -1,0 +1,25 @@
+body {
+	background-color: #D6D3D7;
+}
+
+a:hover {
+	color: #000000;
+}
+a {
+	color: #FF0000;
+	font-size: 16pt;
+	padding : 10;
+	align: center;
+}
+h1 {
+	text-align: center;
+	width: 100%;
+	Color : green;
+	font-size: 30pt;
+}
+
+h2 {
+	text-align: center;
+	width: 100%;
+	font-size: 20pt;
+}
