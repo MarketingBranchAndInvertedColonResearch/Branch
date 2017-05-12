@@ -1,17 +1,15 @@
 var aboutPage = function(){
-	alert("Howdy there!");
+	window.location = "http://themurderousflounderesses.org/aboutPage";
 }
 
 var creatorsPage = function(){
-	alert("Howdy there!");
+	window.location = "http://themurderousflounderesses.org/creatorsPage";
 }
 
 var locationsGuide = function(){
-	alert("Howdy there!");
+	window.location = "http://themurderousflounderesses.org/locationsGuide";
 }
 
 var imageGallery = function(){
-	var str = "Free Web Building Tutorials!";
-    var result = str.link("file:///C:/Users/ksch3244/Desktop/Completed/Website%20+%20More/AboutPage.html");
-    document.getElementById("AboutPage").innerHTML = result;
+	window.location = "http://themurderousflounderesses.org/imageGallery";
 }
