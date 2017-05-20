@@ -1,4 +1,18 @@
 <a href="http://murderousflounderesses.org/"><h2>The Murderous Flounderesses: Inverted Colon Research Branch</h2></a>
 
 
-<p>In 2013, while partners Jackson Bullard and Keegan Schmit were attending Harvard University, they learned of an issue that has implanted itself in their hearts, and now the world. This problem, the reversing of the colon's inward-facing direction, commonly known in Latin as <i>Colonia inverte diverticulas</i>, is a disease that stems from the overuse of popular sexual techniques, such as the fisting of the rectum. Having much success in the past in the tech industry with their transaction related bank software, the team began on a project with their other company's revenue to start research branches to solve this nation wide problem of inverted colons. Ever since, the foundation, "The Murderous Flounderesses: Inverted Colon Research Branch", has not seized to slow or stop in any way, but has been generating thousands of supporters. Every day this organization thanks all of our supporters from the bottom of our hearts. Because of you, we get closer and closer to accomplishing our goal of ending this outrage of inverted colons.</p>
+<p>In the Winter of 2011, eventual partners Keegan Schmit and Jackson Bullard stumbled across
+			eachother at an intercollegiate tech competition. Both members were the captains of their team,
+			Keegan's being Harvard University and Jackson Massachusetts Institute of Technology. After a 
+			narrow win by Schmit, the two went to congratulate eachother, talked, and eventually became 
+			friends. That night, Keegan Schmit pitched Jackson Bullard the idea of a bank software transaction
+			system, which eventually was bought out by Citi Bank for 55 million dollars. Keegan and 
+			Jackson then partnered on multiple startups and projects, accumulating a combined networth of
+			1.3 billion in three years. Later in their career, the two hatched an idea for a research facility to
+			cure a disease that was near and dear to their hearts, and is now to the world. The facility came to
+			be known as The Murderous Flounderesses: Inverted Colon Research Branch. The Murderous Flounderesses, 
+			a non-profit organization, researches a disease, <i>Inverte Colonia Diverticula</i> (Inverted Colon Disease),
+			which stems from an overuse of popular sexual techniques such as the fisting of the rectum. Starting with
+			a team of 243 members, the organization has now grown to have 3000 team members, and 213,000 supporters. 
+			Every day our core members thank you, the supporters, and hope to continue growth, as every one brings us
+			slightly closer to abrogating this outrage of inverted colons.</p>
