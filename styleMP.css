@@ -1,0 +1,24 @@
+body {
+	background-color: #ffffff;
+}
+
+button {
+	color: #374be6;
+	font-size: 16pt;
+	padding: 10;
+	Color: #a3a2a5
+	align: center;
+}
+h1 {
+	text-align: center;
+	width: 100%;
+	Color: 576aff;
+	font-size: 30pt;
+}
+
+h2 {
+	text-align: center;
+	width: 100%;
+	Color: #000000
+	font-size: 20pt;
+}
