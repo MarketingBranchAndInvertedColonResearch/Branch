@@ -30,4 +30,15 @@ public class Database {
 	public ArrayList<User> getList(){
 		return users;
 	}
+	
+	public String toString(){
+		return "This database has: " + users.size() + " members";
+	}
+	
+	public int compareTo(Database other){
+		if(other.getList().size() <= users.size()){
+			return 1;
+		} else {
+			return -1;
+		}
 }
