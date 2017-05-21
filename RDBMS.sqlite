@@ -1,2 +1,29 @@
-CREATE TABLE template (temp1 INTEGER, temp2 TEXT, temp3 INTEGER);
+CREATE TABLE users (name TEXT, username TEXT, email TEXT, age INTEGER, idNum TEXT);
 
+DECLARE @count INT = 0;
+DECLARE @idNumCount INT = 100000;
+DECLARE @usersNeededToBeInputted = SELECT INTEGER;
+
+DECLARE @name TEXT = '';
+DECLARE @username TEXT = '';
+DECLARE @email TEXT = '';
+DELCARE @age INTEGER = '';
+DECLARE @idNum TEXT = '';
+
+WHILE @count < usersNeededToBeInputted
+BEGIN
+	PRINT 'Added ' + name;
+	
+	@name = select(users) TEXT;
+	@username = select(users) TEXT;
+	@email = select(users) TEXT;
+	@age = select(users) INTEGER;
+	
+	INSERT INTO users (name, username, email, age, idNum)
+	VALUES (@name, @username, @email, @age, '#' + @idNumCount);
+	SET @idNumCount = @ idNumCount + 1;
+	SET @count = @count + 1;
+END;
+
+PRINT 'New Users Added';
+GO
