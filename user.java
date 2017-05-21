@@ -31,7 +31,7 @@ public class user {
 	}
 	
 	public String returnEmailAddress(){
-		return email;
+		return "@" + email;
 	}
 	
 	public String inStringForm(){
@@ -121,6 +121,21 @@ public class user {
 			age = Integerinput();
 		} else {
 			error(false);
+		}
+	}
+	
+	public String toString(){
+		return "Name: " + name +
+			"Username: " + username +
+			"Email: " + email +
+			"Age: " + age;
+	}
+	
+	public int compareTo(User other){
+		if(other.getIDNum(true)) <= getIDNum(true)){
+			return 1;
+		} else {
+			return -1;
 		}
 	}
 }
