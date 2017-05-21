@@ -15,10 +15,10 @@ public class Database {
 		idCount = 100000;
 		while(!console.eof()){
 			users.add(new User());
-			users.get(counter).updateName(users.get(counter).prompt("Name"));
-			users.get(counter).updateUsername(users.get(counter).prompt("Username"));
-			users.get(counter).updateEmail(users.get(counter).prompt("Email Address"));
-			users.get(counter).updateAge(users.get(counter).prompt("Age", true));
+			users.get(counter).updateName(console.readWord());
+			users.get(counter).updateUsername(console.readWord());
+			users.get(counter).updateEmail(console.readWord());
+			users.get(counter).updateAge(console.readInt());
 			
 			users.assignID(idCount);
 			idCount++;
