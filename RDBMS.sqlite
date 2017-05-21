@@ -1,0 +1,2 @@
+CREATE TABLE template (temp1 INTEGER, temp2 TEXT, temp3 INTEGER);
+
