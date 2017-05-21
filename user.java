@@ -9,8 +9,8 @@ public class user {
 	private Scanner console;
 	
 	//public variables
-	int counter;
-	
+	public int counter;
+	public Database db;
 	
 	//constructor(s)
 	
@@ -24,6 +24,8 @@ public class user {
 		
 		prompt("Age");
 		
+		db = new Database();
+		counter = lastIdNum() + 1;
 		assignID(counter);
 		counter++;
 		console = new Scanner(System.in);
@@ -65,6 +67,10 @@ public class user {
 	
 	public int Integerinput(){
 		return console.next();
+	}
+	
+	public int lastIdNum(){
+		return db.getList().getSize() - 1;
 	}
 	
 	//void methods
