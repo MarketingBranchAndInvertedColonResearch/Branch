@@ -15,19 +15,8 @@ public class user {
 	//constructor(s)
 	
 	public user(){
-		 
-		prompt("Name");
-		
-		prompt("Username");
-		
-		prompt("Email Address");
-		
-		prompt("Age");
 		
 		db = new Database();
-		counter = lastIdNum() + 1;
-		assignID(counter);
-		counter++;
 		console = new Scanner(System.in);
 	}
 	
@@ -70,7 +59,7 @@ public class user {
 	}
 	
 	public int lastIdNum(){
-		return db.getList().getSize() - 1;
+		return db.getList().get(db.getList().size() - 1).idNum();
 	}
 	
 	//void methods
