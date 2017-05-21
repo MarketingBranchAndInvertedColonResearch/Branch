@@ -1,4 +1,4 @@
-<a href="http://murderousflounderesses.org/"><h2>The Murderous Flounderesses: Inverted Colon Research Branch</h2></a>
+<a href="http://murderousflounderesses.org/"><h2>The Murderous Flounderesses: Inverted Colon Research</h2></a>
 
 
 <p>In the Winter of 2011, eventual partners Keegan Schmit and Jackson Bullard stumbled across
@@ -10,7 +10,7 @@
 			Jackson then partnered on multiple startups and projects, accumulating a combined networth of
 			1.3 billion in three years. Later in their career, the two hatched an idea for a research facility to
 			cure a disease that was near and dear to their hearts, and is now to the world. The facility came to
-			be known as The Murderous Flounderesses: Inverted Colon Research Branch. The Murderous Flounderesses, 
+			be known as The Murderous Flounderesses: Inverted Colon Research. The Murderous Flounderesses, 
 			a non-profit organization, researches a disease, <i>Inverte Colonia Diverticula</i> (Inverted Colon Disease),
 			which stems from an overuse of popular sexual techniques such as the fisting of the rectum. Starting with
 			a team of 243 members, the organization has now grown to have 3000 team members, and 213,000 supporters. 
