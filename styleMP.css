@@ -9,15 +9,21 @@ button {
 	Color: #a3a2a5
 	align: center;
 }
+
+marquee {
+	
+	text-align: left;	
+}
+
 h1 {
-	text-align: center;
+	
 	width: 100%;
 	Color: 576aff;
 	font-size: 30pt;
 }
 
 h2 {
-	text-align: left;
+	
 	width: 100%;
 	Color: #000000
 	font-size: 20pt;
