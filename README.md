@@ -1,18 +1,41 @@
-<a href="http://themurderousflounderesses.org/"><h2>The Murderous Flounderesses: Inverted Colon Research</h2></a>
-
-
-<p>In the Winter of 2011, eventual partners Keegan Schmit and Jackson Bullard stumbled across
-			eachother at an intercollegiate tech competition. Both members were the captains of their team,
-			Keegan's being Harvard University and Jackson Massachusetts Institute of Technology. After a 
-			narrow win by Schmit, the two went to congratulate eachother, talked, and eventually became 
-			friends. That night, Keegan Schmit pitched Jackson Bullard the idea of a bank software transaction
-			system, which eventually was bought out by Citi Bank for 55 million dollars. Keegan and 
-			Jackson then partnered on multiple startups and projects, accumulating a combined networth of
-			1.3 billion in three years. Later in their career, the two hatched an idea for a research facility to
-			cure a disease that was near and dear to their hearts, and is now to the world. The facility came to
-			be known as The Murderous Flounderesses: Inverted Colon Research. The Murderous Flounderesses, 
-			a non-profit organization, researches a disease, <i>Inverte Colonia Diverticula</i> (Inverted Colon Disease),
-			which stems from an overuse of popular sexual techniques such as the fisting of the rectum. Starting with
-			a team of 243 members, the organization has now grown to have 3000 team members, and 213,000 supporters. 
-			Every day our core members thank you, the supporters, and hope to continue growth, as every one brings us
-			slightly closer to abrogating this outrage of inverted colons.</p>
+<html>
+	<head>
+		<title>
+			The Murderous Flounderesses: Inverted Colon Research Branch
+		</title>
+			<meta name = "author" content = "Keegan Schmit">
+			<meta name = "keywords" content = "Colon"> 
+			<meta name = "keywords" content = "Research"> 
+			<meta name = "keywords" content = "Murdering Flounderesses"> 
+			<link href="styleMP.css" type=text/css rel="stylesheet">
+			<script src = "functionsFile.js"></script>
+	</head>
+	
+	<br>
+	
+	<body>
+		
+		<center><marquee><h1> The Murderous Flounderesses </h1></marquee></center>
+		<center><marquee><h2> Inverted Colon Research </h2></marquee></center>
+		
+		<center>
+			<h2>Current Contributors: </h2>
+			
+			<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2269804&f=255&b=16777215" border= 5 height= 175 width= 800 ></a><br></div>
+			
+			<br>
+			
+			<img STYLE="position:absolute;TOP:500px;LEFT:170px;WIDTH:450px;HEIGHT:300px" src="http://www.brhs.com.au/wp-content/uploads/2014/05/Medical-Team.jpg" border = 5>
+			<DIV style="position: absolute;TOP:500px;LEFT:650px;WIDTH:400px;HEIGHT:300px">Story template number one</DIV>
+		</center>
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<br><br><br><br>
+		
+		<center>
+			<button onclick = "aboutPage()">About</button>
+			<button onclick = "contactPage()">Contact</button>
+			<button onclick = "donationsPage()">Donate</button>
+		</center>
+	</body>
+</html>
