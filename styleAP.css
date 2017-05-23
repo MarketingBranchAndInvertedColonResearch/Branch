@@ -9,6 +9,14 @@ button {
 	Color: #a3a2a5
 	align: center;
 }
+
+h1 {
+	text-align: center;
+	width: 100%;
+	Color: 576aff;
+	font-size: 30pt;
+}
+
 p {
 	text-align: justified;
 	width: 100%;
