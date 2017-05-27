@@ -1,0 +1,34 @@
+body {
+	background-color: #ffffff;
+}
+
+button {
+	color: #3b5998;
+	font-size: 16pt;
+	padding: 10;
+	Color: #a3a2a5
+	align: center;
+}
+
+marquee {
+	
+	text-align: left;	
+}
+
+h1 {
+	text-align: center;
+	width: 100%;
+	Color: 576aff;
+	font-size: 30pt;
+}
+
+h2 {
+	text-align: center;
+	width: 100%;
+	Color: #000000
+	font-size: 20pt;
+}
+
+img {
+	color: 576aff;
+}
